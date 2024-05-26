@@ -3,5 +3,17 @@ Pathlib
 streamlit
 python-dotenv
 google-generativeai
+openi
+pandas
+numpy
+llama-index
+pypdf
+transformers
+einops
+accelerate
+langchain
+bitsandbytes
+sentence_transformers
+
 
 
