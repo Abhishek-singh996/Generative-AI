@@ -14,6 +14,10 @@ accelerate
 langchain
 bitsandbytes
 sentence_transformers
+langchain-community
+langchain-groq
+neo4j
+langchain_experimental
 
 
 
